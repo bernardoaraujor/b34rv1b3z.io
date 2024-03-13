@@ -1,0 +1,4 @@
+uses: saidgeek/cobalt-deploy-gh-pages
+with:
+  githubToken: ${{ secrets.GITHUBTOKEN }}
+  branch: main
