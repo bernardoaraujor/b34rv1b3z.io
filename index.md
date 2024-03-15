@@ -27,7 +27,7 @@
 <center>
 
   <br> 
-  <div class="glitch"> L1F3 15 F13RY W17H 17S 834U7Y</div>
+  <div class="glitch"> L1F3 15 F13RY W17H 175 834U7Y</div>
   <br>
   <img src="8bit_glitch.png" width="300" height="300">
   <br>
