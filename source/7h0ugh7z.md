@@ -8,6 +8,10 @@
     <source src="media/jbp_jre_24.mp4" type="video/mp4">
   </video>
 
+  <video controls>
+    <source src="media/moore_magick.mp4" type="video/mp4">
+  </video>
+
   <a href="../index.html">home</a>
 
 </center>
